@@ -1,6 +1,7 @@
 # Diva
 It is a platform where women connect with each other and help one another
-![sdasdf](https://github.com/tejo03/Diva/assets/98023539/5bd22f69-d8ea-49a2-8552-6cab5c802211)
+![Screenshot (141)](https://github.com/tejo03/Diva/assets/98023539/14c20d6e-e1c3-4561-8d90-297e4b99ab25)
+
 
 The main features of Diva is the empower with us space, where the users can share their experiences, their life journeys, some motivational speeches, their mistakes,etc so that others can inspire from their stories and also it helps people to stay motivated all the time.
 
